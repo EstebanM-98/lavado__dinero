@@ -1,0 +1,16 @@
+{
+    "config": {
+      "user": "admin_pruebas",
+      "password": "Nequi31415?",
+      "host": "databaseprueba.cfeium4y6thg.us-east-1.rds.amazonaws.com",
+      "database": "databaseprueba",
+      "raise_on_warnings": true
+    },
+    
+    "run": {
+      "sql": ["querie1.sql", "querie2.sql"],
+      "archivos_resultados" : ["info_transacciones_persona_fraude", "info_transacciones_consolid_fraud"],
+      "create_table_insum" : "no"
+    }
+  }
+  
