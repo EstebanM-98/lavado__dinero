@@ -1,9 +1,9 @@
 {
     "config": {
-      "user": "admin_pruebas",
-      "password": "Nequi31415?",
-      "host": "databaseprueba.cfeium4y6thg.us-east-1.rds.amazonaws.com",
-      "database": "databaseprueba",
+      "user": ,
+      "password": ",
+      "host": ,
+      "database": ",
       "raise_on_warnings": true
     },
     
